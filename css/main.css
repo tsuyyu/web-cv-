@@ -4496,6 +4496,9 @@ body.is-cursor-active * {
   width: 35rem;
   height: 35rem;
   border-radius: 100%;
+      background-size: cover;
+    background-position: center center;
+  background-image: url("../img/moi.JPG");
 }
 
 @media (max-width: 991px) {
